@@ -186,3 +186,39 @@
 #26 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\artisan(14): Illuminate\\Foundation\\Console\\Kernel->handle()
 #27 {main}
 "} 
+[2025-05-10 15:45:17] production.ERROR: Class "App\Providers\RouteServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"App\\Providers\\RouteServiceProvider\" not found at C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:880)
+[stacktrace]
+#0 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(814): Illuminate\\Foundation\\Application->resolveProvider()
+#1 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register()
+#2 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(794): Illuminate\\Foundation\\ProviderRepository->load()
+#3 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(286): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap()
+#5 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#6 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\artisan(14): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
+[2025-05-10 15:45:40] production.ERROR: Class "App\Providers\RouteServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"App\\Providers\\RouteServiceProvider\" not found at C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:880)
+[stacktrace]
+#0 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(814): Illuminate\\Foundation\\Application->resolveProvider()
+#1 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register()
+#2 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(794): Illuminate\\Foundation\\ProviderRepository->load()
+#3 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(286): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap()
+#5 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#6 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\artisan(14): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
+[2025-05-10 15:48:00] production.ERROR: Class "App\Providers\RouteServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"App\\Providers\\RouteServiceProvider\" not found at C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:880)
+[stacktrace]
+#0 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(814): Illuminate\\Foundation\\Application->resolveProvider()
+#1 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register()
+#2 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(794): Illuminate\\Foundation\\ProviderRepository->load()
+#3 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(286): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap()
+#5 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(447): Illuminate\\Foundation\\Application->bootstrapWith()
+#6 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(199): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\Users\\ahmed.abdelsalam\\Desktop\\desktop\\side_project\\Final\\proj\\quickpick-laravel-backend-full-working\\artisan(14): Illuminate\\Foundation\\Console\\Kernel->handle()
+#8 {main}
+"} 
