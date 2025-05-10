@@ -1,0 +1,24 @@
+{
+    "name": "quickpick/laravel-backend",
+    "type": "project",
+    "require": {
+        "php": "^8.1",
+        "fruitcake/laravel-cors": "^2.2",
+        "laravel/framework": "^10.0",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "classmap": [
+            "database/seeders",
+            "database/factories"
+        ]
+    },
+    "scripts": {
+        "post-autoload-dump": [
+            "@php artisan package:discover --ansi"
+        ]
+    }
+}

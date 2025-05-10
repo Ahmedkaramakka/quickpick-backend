@@ -1,0 +1,1 @@
+<?php echo 'Bootstrap Laravel app loaded';
